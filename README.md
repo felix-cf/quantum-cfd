@@ -16,4 +16,8 @@ https://repository.tudelft.nl/islandora/object/uuid:deba389d-f30f-406c-ad7b-babb
 ## HHL 
 HHL is another algorithm for solving linear systems with quantum computers, but not suited for the Noisy Intermediate Stage Quantum era of quantum computers. 
 
+## Matlab Script
+
+The Matlab script has many features that allow for the quick calculation of coefficients based on a desired condition number, that allows us to test how our algorithms scale with varying condition number.
+
 
